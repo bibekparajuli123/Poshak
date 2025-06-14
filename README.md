@@ -1,29 +1,19 @@
-# Poshak
-👘 Poshak – Traditional Fashion, Digitally Draped
+# 👘 Poshak – Traditional Fashion, Digitally Draped
 
- Poshak – Wear Your Culture.
-A minimalist and aesthetic Nepali clothing marketplace app built with Flutter.
-Poshak blends tradition with trend — from Gunyo Cholo to Graphic Kurti, we bring Nepali fashion to fingertips.
+**Poshak** is a minimalist Nepali clothing marketplace app built with Flutter.  
+Blending tradition with trend — from Gunyo Cholo to Graphic Kurtis — Poshak brings Nepali fashion to your fingertips.
 
-🧵 Features:
-🔥 Splash screen with rich cultural visuals
+## 🧵 Features
+- 🔥 Cultural splash screen  
+- 👤 Modern Sign Up / Sign In  
+- 🏠 Home with trending & recommended picks  
+- 🧭 Bottom navigation: Home, Categories, Cart  
+- ❤️ Wishlist icon, 🛒 Cart badge, side drawer for settings  
+- 🎨 Maroon & Ivory theme with custom Google Fonts
 
-👤 Clean Sign Up / Sign In screens
+## 🚀 Tech Stack
+- Flutter + Dart  
+- Google Fonts  
+- Widget-based UI inspired by Flipkart, Myntra & Amazon
 
-🏠 Home screen with trending & recommended picks
-
-🧭 Bottom navigation (Home, Categories, Cart)
-
-❤️ Wishlist icon, 🛒 cart badge, and side drawer with account options
-
-🎨 Maroon + Ivory theme with custom fonts and smooth UI
-
-🚀 Tech Stack:
-Flutter + Dart
-
-Google Fonts
-
-Custom UI design inspired by Flipkart, Myntra & Amazon
-
-Clean widget-based architecture
-
+> UI-focused prototype for portfolio & academic use.
