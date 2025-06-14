@@ -1,16 +1,29 @@
-# poshak_shopping_app
+# Poshak
+👘 Poshak – Traditional Fashion, Digitally Draped
 
-A new Flutter project.
+ Poshak – Wear Your Culture.
+A minimalist and aesthetic Nepali clothing marketplace app built with Flutter.
+Poshak blends tradition with trend — from Gunyo Cholo to Graphic Kurti, we bring Nepali fashion to fingertips.
 
-## Getting Started
+🧵 Features:
+🔥 Splash screen with rich cultural visuals
 
-This project is a starting point for a Flutter application.
+👤 Clean Sign Up / Sign In screens
 
-A few resources to get you started if this is your first Flutter project:
+🏠 Home screen with trending & recommended picks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧭 Bottom navigation (Home, Categories, Cart)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+❤️ Wishlist icon, 🛒 cart badge, and side drawer with account options
+
+🎨 Maroon + Ivory theme with custom fonts and smooth UI
+
+🚀 Tech Stack:
+Flutter + Dart
+
+Google Fonts
+
+Custom UI design inspired by Flipkart, Myntra & Amazon
+
+Clean widget-based architecture
+
